@@ -3,7 +3,7 @@ Portfolio Website
 
 Hi, I’m Ashutosh Ojha, a passionate Computer Science and Engineering (CSE) student with a strong interest in web development and problem-solving. This portfolio website is a showcase of my skills, projects, and experiences in the field of technology.
 
-🚀 Features
+Features
 
 Responsive and user-friendly design
 
